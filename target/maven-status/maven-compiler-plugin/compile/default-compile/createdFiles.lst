@@ -1,0 +1,6 @@
+com/web/rest/controller/MainController.class
+com/web/rest/model/Instruction.class
+com/web/rest/dao/InstructionsDao.class
+com/web/rest/config/AppConfig.class
+com/web/rest/config/Application.class
+com/web/rest/dao/InstructionsDaoImpl.class
